@@ -8,6 +8,7 @@ The goal of this repository is to provide an example of a competitive analysis f
 For Kaggle Competition this code results in over 99 % percent accuracy
 Top 40% result for Kaggle
 ```
+## CNN architechture followed is: Input -> [[Conv2D->relu]*2 -> MaxPool2D -> Dropout]*2 -> Flatten -> Dense -> Dropout -> Output
 
 
 The steps followed are:
